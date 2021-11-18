@@ -1,0 +1,21 @@
+{
+    "name": "ljx/test",
+    "description": "ljx test",
+    "type": "l",
+    "require": {
+        "php": ">=5.6.0"
+    },
+    "license": "Apache-2.0",
+    "autoload": {
+        "psr-4": {
+        "Cjc\\": "src/cjc" 
+	}
+    },
+    "authors": [
+        {
+            "name": "lijiaxing",
+            "email": "1277896168@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
